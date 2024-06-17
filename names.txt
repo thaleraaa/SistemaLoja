@@ -1,0 +1,98 @@
+Piano
+Guitar
+Violin
+Flute
+Trumpet
+Saxophone
+Drum kit
+Clarinet
+Trombone
+Cello
+Harp
+Accordion
+Bass guitar
+Banjo
+Xylophone
+Ukulele
+French horn
+Oboe
+Mandolin
+Viola
+Marimba
+Tuba
+Piccolo
+Double bass
+Bagpipes
+Sitar
+Electric keyboard
+Bongos
+Didgeridoo
+Theremin
+Congas
+Bassoon
+Flugelhorn
+Kalimba
+Euphonium
+Steel drum
+Ocarina
+Recorder
+Guzheng
+Mbira
+Djembe
+Pan flute
+Shamisen
+Clavinet
+Taiko drum
+Hurdy-gurdy
+Dulcimer
+Baglama
+Balalaika
+Cor anglais
+Dizi
+Ney
+Pipa
+Synthesizer
+Zither
+Kazoo
+Koto
+Lute
+Lyre
+Mellophone
+Nyckelharpa
+Octobass
+Psaltery
+Rebab
+Serpent
+Sousaphone
+Steel guitar
+Tambura
+Tubular bells
+Udu drum
+Vibraphone
+Washboard
+Whamola
+Whip
+Zampogna
+Baritone horn
+Bass clarinet
+Contrabassoon
+Jew's harp
+Kaval
+Mandocello
+Ondes Martenot
+Rahmentrommel
+Spinet
+Suvorov trumpet
+Taishogoto
+Tremoloa
+Wind controller
+Yaybahar
+Zhongruan
+Aerophone
+Alphorn
+Chapman Stick
+Daf
+Gayageum
+Handpan
+Kalangu
+Monochord
