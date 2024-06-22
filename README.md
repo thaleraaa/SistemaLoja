@@ -1,6 +1,6 @@
 # Projeto Store.py
 
-Este projeto é uma aplicação Python que simula operações em uma loja. Utiliza várias bibliotecas para manipulação de dados, geração de dados falsos e mais.
+Este código Python é uma aplicação para gerenciamento de loja que oferece menus interativos para adicionar, remover, buscar e ordenar produtos, pedidos e clientes, incluindo funcionalidades como geração de dados aleatórios, embaralhamento de arquivos e operações em uma árvore B, além de fornecer informações sobre o saldo da loja.
 
 ## Focos Principais
 Organização dos Dados em Memória Secundária: O projeto se concentra em técnicas avançadas de organização de dados em memória secundária, incluindo arquivos, acesso sequencial e aleatório, registros de tamanho fixo e variável, ordenação em disco, reutilização de espaço e indexação de arquivos.
